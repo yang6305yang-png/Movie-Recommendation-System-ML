@@ -41,3 +41,5 @@ Movie-Recommender-System/
 │
 ├── notebooks/
 │   └── movie_recommender.ipynb
+
+Note: Large model files are excluded from the repository.
